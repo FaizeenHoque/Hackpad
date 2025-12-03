@@ -17,6 +17,11 @@ Heres the PCB that will be used for the project
 <img width="573" height="655" alt="image" src="https://github.com/user-attachments/assets/6c434ff8-7165-423f-95ab-496cf241e2a9" />
 <img width="1048" height="634" alt="image" src="https://github.com/user-attachments/assets/fff47c90-a979-4d75-9a93-daf1c3f74a33" />
 
+### Assembled
+
+<img width="1038" height="664" alt="Screenshot 2025-12-03 212401" src="https://github.com/user-attachments/assets/c5159fa7-8a4a-4dfc-b119-5822fda55075" />
+
+
 ### Firmware
 This hackpad uses QMK firmware for everything. 
 
