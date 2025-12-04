@@ -20,6 +20,8 @@ Heres the PCB that will be used for the project
 ### Assembled
 
 <img width="1038" height="664" alt="Screenshot 2025-12-03 212401" src="https://github.com/user-attachments/assets/c5159fa7-8a4a-4dfc-b119-5822fda55075" />
+<img width="1185" height="799" alt="image" src="https://github.com/user-attachments/assets/b37f6121-afd7-4ea1-b6fb-7738f943eaeb" />
+<img width="919" height="567" alt="image" src="https://github.com/user-attachments/assets/5d4be572-40f7-499c-a0e4-dff9455c9469" />
 
 
 ### Firmware
